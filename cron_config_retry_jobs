@@ -2,4 +2,4 @@
 #-----------------------------------------------------------------------------
 # Min    Hour    Day    Month    Weekday    Command
 #-----------------------------------------------------------------------------
-*/15      *      *       *         *       /bin/bash -c /work/halld2/home/boyu/retry_jobs/cron_exec_retry_jobs.sh > /work/halld2/home/boyu/retry_jobs/retry_status.log 2>&1
+*/15      *      *       *         *       /bin/bash -c /work/halld2/home/boyu/my_retry_jobs/cron_exec_retry_jobs.sh > /work/halld2/home/boyu/my_retry_jobs/retry_status.log 2>&1

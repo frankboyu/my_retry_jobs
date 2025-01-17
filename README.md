@@ -1,10 +1,10 @@
-## retry_jobs
+## my_retry_jobs
 
 Scripts to retry the jobs that failed due to transient farm errors.
 
-JLab: /work/halld2/home/boyu/retry_jobs
+JLab: /work/halld2/home/boyu/my_retry_jobs
 
-GitHub: https://github.com/frankboyu/scripts/tree/master/retry_jobs
+GitHub: https://github.com/frankboyu/scripts/tree/master/my_retry_jobs
 
 ### Usage
 
